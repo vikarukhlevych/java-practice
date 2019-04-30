@@ -17,6 +17,7 @@ public class ArrayPaaramentrs {
 		int [] two = {3,1,4,323,100};
 		print2Arrays(one,two);
 		print2ArraysV2(one,two);
+		//TEST
 	}
 	
 	/*/
